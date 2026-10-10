@@ -1,0 +1,7 @@
+{
+  "name": "Homem-Aranha: Aventura 8-Bit (Para Leon Gabriel)",
+  "description": "Jogo clássico 8-bit de plataforma do Homem-Aranha com 11 fases, balanço de teias e grandes vilões. Feito com muito carinho para o Leon Gabriel pela prima Evelyn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
